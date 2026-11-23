@@ -9,6 +9,8 @@ Meet **Mimi**, your friendly AI study buddy, who guides you throughout your lear
 💻 **GitHub Repository:** https://github.com/Hemi26-gif/study-buddy-ai-chatbot
 
 ---
+<img width="1365" height="637" alt="Screenshot 2026-11-23 161710" src="https://github.com/user-attachments/assets/b77e1bcf-445b-4cb7-b914-7bd41b87156b" />
+
 
 ## ✨ Features
 
